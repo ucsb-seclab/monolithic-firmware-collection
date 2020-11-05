@@ -28,4 +28,5 @@ Here a list of other sources from which these blobs are coming from:
 
 * https://github.com/TrustworthyComputing/csaw_esc_2019
 * https://os.mbed.com/platforms/FRDM-K64F/
+* https://github.com/grant-h/ShannonBaseband/tree/master/firmware
 * You?
