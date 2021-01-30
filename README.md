@@ -23,10 +23,12 @@ Here all the papers from where this dataset has been created.
 | P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling  |      https://www.usenix.org/system/files/sec20spring_feng_prepub_0.pdf      |       
 | What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | http://s3.eurecom.fr/docs/ndss18_muench.pdf |
 | BootStomp: On the Security of Bootloaders in Mobile Devices | https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-redini.pdf |
+| FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware | https://dl.acm.org/doi/10.1145/3372297.3423344 |
 
 Here a list of other sources from which these blobs are coming from:
 
 * https://github.com/TrustworthyComputing/csaw_esc_2019
 * https://os.mbed.com/platforms/FRDM-K64F/
 * https://github.com/grant-h/ShannonBaseband/tree/master/firmware
+* https://github.com/OSUSecLab/FirmXRay
 * You?
