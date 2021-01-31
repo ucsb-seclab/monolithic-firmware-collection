@@ -8,7 +8,9 @@ With this repo, we want to create a centralize spot where researchers can share 
 No more papers with 3 examples, less time wasted looking for those, less money spent to dump another firmware already dumped by somebody else.
 
 Share your blob! 
-
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/p54lRIQ_d.webp?maxwidth=760&fidelity=grand">
+</p>
 
 
 
