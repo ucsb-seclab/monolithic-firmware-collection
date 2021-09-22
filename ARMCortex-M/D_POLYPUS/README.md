@@ -1,7 +1,6 @@
 From the paper:
 
-- It is required to know the ROM and RAM region of a Bluetooth firmware to dump it. Within the Bluetooth firmware
-the ROM starts at 0x0 and the RAM at 0x200000. 
+- Within the Bluetooth firmware the ROM starts at 0x0 and the RAM at 0x200000. 
 - ROM can be read and executed, while RAM can also be written.
 - There is no execution prevention. 
 - The ROM of each firmware starts with: 
