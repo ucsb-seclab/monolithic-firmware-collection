@@ -26,6 +26,7 @@ Here all the papers from where this dataset has been created.
 | What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | http://s3.eurecom.fr/docs/ndss18_muench.pdf |
 | BootStomp: On the Security of Bootloaders in Mobile Devices | https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-redini.pdf |
 | FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware | https://dl.acm.org/doi/10.1145/3372297.3423344 |
+| Polypyus – The Firmware Historian |https://www.ndss-symposium.org/wp-content/uploads/bar2021_23004_paper.pdf|
 
 Here a list of other sources from which these blobs are coming from:
 
@@ -33,4 +34,5 @@ Here a list of other sources from which these blobs are coming from:
 * https://os.mbed.com/platforms/FRDM-K64F/
 * https://github.com/grant-h/ShannonBaseband/tree/master/firmware
 * https://github.com/OSUSecLab/FirmXRay
+* https://github.com/seemoo-lab/polypyus/tree/master/firmware/targets
 * You?
