@@ -222,8 +222,7 @@ def ExtractIVTAddresses(p, cfg, offset_ivt):
 MAX_BASE =  0x80000 #0x80000 #0x20000000
 MIN_BASE = -1
 
-# This is used in the searching algorithm 
-# for candidate base addresses 
+# This is used in the searching algorithm for candidate base addresses 
 DELTA  = 0x100
 
 if __name__ == "__main__":

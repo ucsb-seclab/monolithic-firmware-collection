@@ -87,7 +87,7 @@ def cfg_it(p):
     cfg = p.analyses.CFG(resolve_indirect_jumps=True, 
                          cross_references=True, 
                          function_prologues=True, # force detection using ARM's function prologues.
-                         show_progressbar=True,
+                         show_progressbar=False,
                          normalize=True, symbols=True, start_at_entry=True)
     _ = p.analyses.CompleteCallingConventions(recover_variables=True, force=True)
     return cfg
